@@ -1,0 +1,8 @@
+{
+  "root_folder": "D:/QuranUploads",
+  "start_datetime": null,
+  "hour_interval": 1,
+  "chrome_debugger_address": "127.0.0.1:9222",
+  "log_file": "upload_log.txt",
+  "report_csv": "reports/upload_report.csv"
+}
